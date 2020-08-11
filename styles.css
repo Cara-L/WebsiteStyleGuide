@@ -1,0 +1,109 @@
+.section {
+  border: solid black 1px;
+}
+
+.color-container {
+  border: solid black 1px;
+}
+
+.color-panel-dark-blue {
+  background-color: #00008b;
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.color-panel-deep-pink {
+  background-color: #ff1493;
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.color-panel-green {
+  background-color: #00fa9a;
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.color-label-blue {
+  color: white;
+}
+
+.font-container {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.font-label-lemonada {
+  font-family: 'Lemonada', cursive;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular-lemonada {
+  font-family: 'Lemonada', cursive;
+}
+
+.bold-lemonada {
+  font-family: 'Lemonada', cursive;
+  font-weight: 700;
+}
+
+.font-label-josefin {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular-josefin {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.bold-josefin {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+}
+
+.font-label-arvo {
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular-arvo {
+  font-family: 'Arvo', serif;
+}
+
+.bold-arvo {
+  font-family: 'Arvo', serif;
+  font-weight: 700;
+}
+
+.h1-heading {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: 'Arvo', serif;
+}
+
+.h2-subheading {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.paragraph-text {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Josefin Sans', sans-serif;
+}
